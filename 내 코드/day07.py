@@ -54,3 +54,11 @@ replace_5_24()
 
 def replace_1():
     
+def list_test1():
+    #리스트에 멤버 추가하기: append(원소) / insert(인덱스,원소) / extend(컬렉션;리스트,range 등..)
+    #제거: pop(인덱스):인자 생략시 마지막 원소 제거, 제거 원소 반환, remove(원소):원소없으면 오류발생
+    
+    #리스트 섞기- random모듈의 shuffle()사용  
+    
+def list_method_3():
+    
